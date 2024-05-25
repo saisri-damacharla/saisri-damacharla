@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saisri damacharla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisri damacharla" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/saisri-damacharla-409256130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisri damacharla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
