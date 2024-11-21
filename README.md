@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Saisri Damacharla</h1>
 
 # About Me
-I’m an experienced software professional as Senior systems Engineer who is currently pursuing Master's degree in the field of Computer Science expected to graduate in May, 2025.
+I’m an experienced software professional as Senior Software Engineer who is currently pursuing Master's degree in the field of Computer Science expected to graduate in May, 2025.
 
 # Professional Experience
+
+Senior Software Engineer
+- Built high performance web applications using Python, Django and developed seamless integrations using Restful API for user-friendly interface.
+- Developed SQL database structure with Django framework using agile methodology.
+- Performed data analysis with Pandas and NumPy for identifying the market trends in strategy planning.
+- Continuous deployments using Jenkins and managing the internal work flows.
+- Handled AWS cloud resource Operations for IAM, EC2 instances, S3 buckets, VPC.
+- Managed CI/CD pipelines with CodeCommit, CodeBuilt, CodeDeploy, CodePipeline services
 
 
 
