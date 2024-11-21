@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saisri Damacharla</h1>
-<h3 align="center">An Aspiring DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps**
+# About Me
+I’m an experienced software professional currently pursuing Master's degree in Umiversity of Missouri-Kansas City in the field of Computer Science expected to graduate in May, 2025.
+
+- 🌱 I am currently diving into the field of cybersecurity with defensive techniques like log analysis and network monitoring.  
 
 - 📝 I regularly write articles on [https://medium.com/@saidnew1798](https://medium.com/@saidnew1798)
 
