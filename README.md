@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saisri Damacharla</h1>
 
 # About Me
-I’m an experienced software professional currently pursuing Master's degree in Umiversity of Missouri-Kansas City in the field of Computer Science expected to graduate in May, 2025.
+I’m an experienced software professional as Senior systems Engineer who is currently pursuing Master's degree in the field of Computer Science expected to graduate in May, 2025.
+
+# Professional Experience
+
+
 
 - 🌱 I am currently diving into the field of cybersecurity with defensive techniques like log analysis and network monitoring.  
 
