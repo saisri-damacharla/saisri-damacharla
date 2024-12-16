@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saisri Damacharla</h1>
 
 # About Me
-I’m an experienced software professional as Senior Software Engineer who is currently pursuing Master's degree in the field of Computer Science expected to graduate in May, 2025.
-
-- 🌱 I am currently diving into the field of cybersecurity with defensive techniques like log analysis and network monitoring.  
+I’m an experienced software professional as Senior Software Engineer who is currently pursuing Master's degree in the field of Computer Science expected to graduate in May, 2025. 
 
 - 📝 I regularly write articles on [https://medium.com/@saidnew1798](https://medium.com/@saidnew1798)
 
